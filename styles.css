@@ -17,6 +17,16 @@ ul {
   margin-top: 0;
 }
 
+p {
+  background-color: #07F5CD;
+  padding: 10px;
+}
+
+strong {
+  text-decoration: underline;
+  text-decoration-color: #EDF507;
+}
+
 nav ul {
   list-style-type: none;
 }
