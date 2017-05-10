@@ -27,6 +27,16 @@ strong {
   text-decoration-color: #EDF507;
 }
 
+footer {
+  font-size: x-small;
+  color: white;
+  background-color: #000202;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
 nav ul {
   list-style-type: none;
 }
