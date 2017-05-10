@@ -42,3 +42,9 @@ nav li {
 .pic-box {
   display: inline-block;
 }
+
+.pic-container {
+  padding: 0 25px;
+  margin: auto;
+  max-width: 910px;
+}
