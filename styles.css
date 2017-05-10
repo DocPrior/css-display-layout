@@ -38,3 +38,7 @@ nav li {
   display: inline-block;
   padding: 7px 5px;
 }
+
+.pic-box {
+  display: inline-block;
+}
